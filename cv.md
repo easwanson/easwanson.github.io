@@ -8,7 +8,7 @@ title: CV
 - 123 Fake Street
 - Portland, OR 97213
 - 555-555-5555
-- your.email@address.com
+- swansone@ohsu.edu
 
 ### Personal summary
 
@@ -16,9 +16,7 @@ title: CV
 
 ### Education
 
-- M.A.     Subject (grade), University name and location
-- B.A.     Subject (grade), University name and location
-- A Level  Subject (grade), University name and location
+- B.A.     Chemistry, Carroll College, Helena, MT
 
 ### Technical
 
@@ -27,11 +25,15 @@ title: CV
 
 ### Employment
 
-- 2015: Job title, Company
+- 2012-2013: Research Assistant II, Oregon National Primate Research Center, Beaverton, OR
 
-> In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> Studied epigenetic effects of ethanol self-administration in the rhesus macaque using next-generation sequencing of DNA libraries.
+> Evaluated candidate genes for Drusen blindness in the Japanese macaque using PCR and Sanger sequencing.
+> Developed a new organization system for 30,000 DNA and tissue samples.
+> Purified genomic DNA from primate tissue samples.
+> Trained and supervised summer interns and students.
 
-- 2012: Job title, Company
+- 2008-2012: Research Assistant II, Oregon Health & Science University
 
 > In this role I...Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
